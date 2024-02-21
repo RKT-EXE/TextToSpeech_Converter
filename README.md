@@ -19,7 +19,6 @@ This is a simple web application for converting text to speech.
 ## Technologies Used
 
 - HTML
-- CSS
 - JavaScript
 - Bootstrap
 
